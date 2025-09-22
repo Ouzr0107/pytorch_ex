@@ -21,6 +21,7 @@ dist/
 # 数据和模型文件
 data/
 models/
+runs/
 *.jpg
 *.jpeg
 *.png
